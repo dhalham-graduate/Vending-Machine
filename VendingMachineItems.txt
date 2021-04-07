@@ -1,0 +1,12 @@
+Cookie::1.49::19
+Chocolate Bar::0.75::19
+Flapjack::2.51::19
+7UP::1.25::18
+Walkers::0.55::19
+Orange Juice::0.65::20
+Coke::1.87::17
+Protein Bar::1.97::19
+Apple Juice::2.29::19
+Pepsi::2.09::15
+Fanta::0.97::19
+Doritos::2.82::16

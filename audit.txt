@@ -1,0 +1,29 @@
+2020-11-16T12:16:28.973907400 : User bought Cookie.
+2020-11-16T12:16:49.979748300 : User bought Doritos.
+2020-11-16T12:17:08.694884900 : User bought PepSI.
+2020-11-16T12:17:19.870842200 : User bought WALKERS.
+2020-11-16T12:19:31.042824700 : User bought 7up.
+2020-11-16T12:19:40.779893100 : User bought Pepsi.
+2020-11-16T12:21:00.379652200 : User bought Doritos.
+2020-11-17T11:53:02.517989600 : User bought Chocolate bar.
+2020-11-17T11:53:24.212075400 : User bought Coke.
+2020-11-17T11:53:45.209235600 : User bought Fanta.
+2020-11-17T14:14:23.428022400 : User bought Coke.
+2020-11-17T14:14:52.627555500 : User bought Coke.
+2020-11-18T14:09:08.282390100 : User bought Pepsi.
+2020-11-18T14:14:06.476177200 : User bought Pepsi.
+2020-11-18T14:14:14.418549 : User bought Pepsi.
+2020-11-18T14:14:32.048179700 : User bought Pepsi.
+2020-11-18T14:51:13.035804200 : User bought Pepsi.
+2020-11-18T14:58:47.378943400 : User bought Pepsi.
+2020-11-19T13:03:02.110982 : User bought Pepsi.
+2020-11-19T13:03:24.989263300 : User bought Protein bar.
+2020-11-19T13:03:53.294501 : User bought Pepsi.
+2020-11-19T14:12:36.135999300 : User bought Pepsi.
+2020-11-19T14:23:41.561755400 : User bought Pepsi.
+2020-11-19T14:23:55.347204400 : User bought Pepsi.
+2020-11-19T14:24:46.702414300 : User bought Doritos.
+2020-11-19T14:24:59.252250200 : User bought Apple juice.
+2020-11-19T14:26:06.314058300 : User bought Pepsi.
+2020-11-20T09:22:27.399212300 : User bought Flapjack.
+2020-11-20T09:41:15.279803500 : User bought Doritos.
